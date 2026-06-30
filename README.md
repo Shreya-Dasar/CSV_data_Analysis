@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CSV Data Analysis Using Pandas
 
 ## Objective
@@ -22,3 +23,7 @@ Analyze student data using Pandas and visualize it using Matplotlib and Seaborn.
 2. Highest marks = 95
 3. Lowest marks = 70
 4. Heatmap shows positive correlation between Study Hours and Marks.
+=======
+# CSV_data_Analysis
+Internship of Qskill
+>>>>>>> 2638314ed4f2153d7f0f02275aa1ed85468c92c1
